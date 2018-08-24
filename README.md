@@ -9,7 +9,7 @@ necessarily hold after performing new adjustments according to the pay-as-you-go
 the accuracy of detection will be negatively affected. Motivated by this fact, we present a new approach for
 detecting DoS attacks in a virtualized cloud under changing environment. The proposed model enables
 monitoring and quantifying the effect of resources adjustments on the collected data. This helps filter out the
-eect of adjustments from the collected data and thus enhance the detection accuracy in dynamic
+effect of adjustments from the collected data and thus enhance the detection accuracy in dynamic
 environments. Our solution correlates as well VMs' application metrics with the actual resources' load, which
 enables the hypervisor to distinguish between benignant high load and DoS attacks. It helps also the hypervisor
 identify the compromised VMs that try to needlessly consume more resources. Experimental results show that
