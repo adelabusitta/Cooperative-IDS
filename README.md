@@ -1,16 +1,22 @@
-# Machine-Learning-for-IDS
-Cloud Computing enables providers to rent out space on their virtual and physical infrastructures. Denial of
-Service (DoS) attacks threaten the ability of the cloud to respond to clients' requests, which results in
-considerable economic losses. The existing detection approaches are still not mature enough to satisfy a
-cloud-based detection system's requirements since they overlook the changing/dynamic environment, that
-characterises the cloud as a result of its inherent characteristics. Indeed, the patterns extracted and used by the
-existing detection models to identify attacks, are limited to the current VMs' infrastructure but do not
-necessarily hold after performing new adjustments according to the pay-as-you-go business model. Therefore,
-the accuracy of detection will be negatively affected. Motivated by this fact, we present a new approach for
-detecting DoS attacks in a virtualized cloud under changing environment. The proposed model enables
-monitoring and quantifying the effect of resources adjustments on the collected data. This helps filter out the
-effect of adjustments from the collected data and thus enhance the detection accuracy in dynamic
-environments. Our solution correlates as well VMs' application metrics with the actual resources' load, which
-enables the hypervisor to distinguish between benignant high load and DoS attacks. It helps also the hypervisor
-identify the compromised VMs that try to needlessly consume more resources. Experimental results show that
-our model is able to enhance the detection accuracy under changing environments.
+#Cooperative IDS
+Cloud systems are becoming more complex and
+vulnerable to attacks. Cyber attacks are also becoming more
+sophisticated and harder to detect. Therefore, it is increasingly
+difficult for a single cloud-based intrusion detection system
+(IDS) to detect all attacks, because of limited and incomplete
+knowledge about attacks. The recent researches in cyber-security
+have shown that a cooperation among IDSs can bring higher
+detection accuracy in such complex computer systems. Through
+collaboration, a cloud-based IDS can consult other IDSs about
+suspicious intrusions and increase the decision accuracy. The
+problem of existing cooperative IDS approaches is that they
+overlook having untrusted (malicious or not) IDSs that may
+negatively effect the decision about suspicious intrusions in the
+cloud. Moreover, they rely on a centralized architecture in which
+a central agent regulates the cooperation, which contradicts the
+distributed nature of the cloud. In this paper, we propose a framework
+that enables IDSs to distributively form trustworthy IDSs
+communities. We devise an algorithm, based on cooperative game
+theory, that allows a set of cloud-based IDSs to cooperatively set
+up their coalition in such a way to make their individual detection
+accuracy increase, even in the presence of untrusted IDSs.
