@@ -1,0 +1,187 @@
+
+@inproceedings{lin2012traceback,
+  title={{Traceback Attacks in Cloud--Pebbletrace Botnet}},
+  author={Lin, Wenjie and Lee, David},
+  booktitle={ICDCSW},
+  pages={417--426},
+  year={2012}
+}
+
+@inproceedings{han2015hierarchical,
+  title={A Hierarchical Security-Auditing Methodology for Cloud Computing},
+  author={Han, Zhuobing and Li, Xiaohong and Stroulia, Eleni},
+  booktitle={SCC},
+  pages={202--209},
+  year={2015}
+}
+
+@inproceedings{wahab2015misbehavior,
+  title={Misbehavior Detection Framework for Community-based Cloud Computing},
+  author={Wahab, Omar Abdel and Bentahar, Jamal and Otrok, Hadi and Mourad, Azzam},
+  booktitle={FiCloud},
+  pages={181--188},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{lombardi2011secure,
+  title={Secure virtualization for cloud computing},
+  author={Lombardi, Flavio and Di Pietro, Roberto},
+  journal={Journal of Network and Computer Applications},
+  volume={34},
+  number={4},
+  pages={1113--1122},
+  year={2011},
+  publisher={Elsevier}
+}
+
+@inproceedings{lee2011multi,
+  title={Multi-level intrusion detection system and log management in cloud computing},
+  author={Lee, Jun-Ho and Park, Min-Woo and Eom, Jung-Ho and Chung, Tai-Myoung},
+  booktitle={Advanced Communication Technology (ICACT), 2011 13th International Conference on},
+  pages={552--555},
+  year={2011},
+  organization={IEEE}
+}
+
+@inproceedings{tupakula2011intrusion,
+  title={Intrusion detection techniques for infrastructure as a service cloud},
+  author={Tupakula, Udaya and Varadharajan, Vijay and Akku, Naveen},
+  booktitle={DASC},
+  pages={744--751},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{lonea2013detecting,
+  title={{Detecting DDoS attacks in cloud computing environment}},
+  author={Lonea, Alina Madalina and Popescu, Daniela Elena and Tianfield, Huanglory},
+  journal={International Journal of Computers Communications \& Control},
+  volume={8},
+  number={1},
+  pages={70--78},
+  year={2013}
+}
+
+@inproceedings{ward2013varanus,
+  title={Varanus: In situ monitoring for large scale cloud systems},
+  author={Ward, J Scott and Barker, Adam},
+  booktitle={CloudCom},
+  volume={2},
+  pages={341--344},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{lo2010cooperative,
+  title={A cooperative intrusion detection system framework for cloud computing networks},
+  author={Lo, Chi-Chun and Huang, Chun-Chieh and Ku, Joy},
+  booktitle={ICPPW},
+  pages={280--284},
+  year={2010},
+  organization={IEEE}
+}
+
+@inproceedings{nikolai2014hypervisor,
+  title={Hypervisor-based cloud intrusion detection system},
+  author={Nikolai, Jason and Wang, Yong},
+  booktitle={International Conference on Computing, Networking and Communications (ICNC)},
+  pages={989--993},
+  year={2014}
+}
+
+@article{wahab2015survey,
+  title={{A survey on trust and reputation models for Web services: Single, composite, and communities}},
+  author={Wahab, Omar Abdel and Bentahar, Jamal and Otrok, Hadi and Mourad, Azzam},
+  journal={Decision Support Systems},
+  volume={74},
+  pages={121--134},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@inproceedings{gruschka2010attack,
+  title={Attack surfaces: A taxonomy for attacks on cloud services},
+  author={Gruschka, Nils and Jensen, Meiko},
+  booktitle={3rd international conference on Cloud Computing},
+  pages={276--279},
+  year={2010},
+  organization={IEEE}
+}
+
+@article{ezzati2013framework,
+  title={A framework to compute statistics of system parameters from very large trace files},
+  author={Ezzati-Jivan, Naser and Dagenais, Michel R},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={47},
+  number={1},
+  pages={43--54},
+  year={2013},
+  publisher={ACM}
+}
+
+@inproceedings{szefer2011eliminating,
+  title={Eliminating the hypervisor attack surface for a more secure cloud},
+  author={Szefer, Jakub and Keller, Eric and Lee, Ruby B and Rexford, Jennifer},
+  booktitle={{Proceedings of the 18th ACM conference on Computer and Communications Security}},
+  pages={401--412},
+  year={2011},
+  organization={ACM}
+}
+
+@article{ferguson2008game,
+  title={Game theory text},
+  author={Ferguson, Thomas S},
+  journal={Mathematics Department, UCLA},
+  year={2008}
+}
+
+@book{luenberger1973introduction,
+  title={Introduction to linear and nonlinear programming},
+  author={Luenberger, David G},
+  volume={28},
+  year={1973},
+  publisher={Addison-Wesley Reading, MA}
+}
+
+@misc{Amazon,
+  title = {{Amazon EC2 Pricing}},
+  howpublished = {\url{http://aws.amazon.com/ec2/pricing/}},
+  year={2016},
+  note = {Accessed: 2016-03-21}
+}
+
+@inproceedings{ristenpart2009hey,
+  title={{Hey, you, get off of my cloud: Exploring information leakage in third-party compute clouds}},
+  author={Ristenpart, Thomas and Tromer, Eran and Shacham, Hovav and Savage, Stefan},
+  booktitle={Proceedings of the 16th ACM conference on Computer and Communications Security},
+  pages={199--212},
+  year={2009},
+  organization={ACM}
+}
+
+@inproceedings{wen2015less,
+  title={{Less can be More: micro-Managing VMs in Amazon EC2}},
+  author={Wen, Jiawei and Lu, Lei and Casale, Giuliano and Smirni, Evgenia},
+  booktitle={CLOUD},
+  pages={317--324},
+  year={2015},
+  organization={IEEE}
+}
+
+@article{wahabtowards,
+  title={Towards Trustworthy Multi-Cloud Services Communities: A Trust-based Hedonic Coalitional Game},
+  author={Wahab, O Abdul and Bentahar, Jamal and Otrok, Hadi and Mourad, Azzam},
+  publisher={IEEE}
+}
+
+@article{ezzati2013framework,
+  title={A framework to compute statistics of system parameters from very large trace files},
+  author={Ezzati-Jivan, Naser and Dagenais, Michel R},
+  journal={ACM SIGOPS Operating Systems Review},
+  volume={47},
+  number={1},
+  pages={43--54},
+  year={2013},
+  publisher={ACM}
+}
