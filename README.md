@@ -6,9 +6,9 @@ cloud-based detection system's requirements since they overlook the changing/dyn
 characterises the cloud as a result of its inherent characteristics. Indeed, the patterns extracted and used by the
 existing detection models to identify attacks, are limited to the current VMs' infrastructure but do not
 necessarily hold after performing new adjustments according to the pay-as-you-go business model. Therefore,
-the accuracy of detection will be negatively aected. Motivated by this fact, we present a new approach for
+the accuracy of detection will be negatively affected. Motivated by this fact, we present a new approach for
 detecting DoS attacks in a virtualized cloud under changing environment. The proposed model enables
-monitoring and quantifying the eect of resources adjustments on the collected data. This helps lter out the
+monitoring and quantifying the effect of resources adjustments on the collected data. This helps filter out the
 eect of adjustments from the collected data and thus enhance the detection accuracy in dynamic
 environments. Our solution correlates as well VMs' application metrics with the actual resources' load, which
 enables the hypervisor to distinguish between benignant high load and DoS attacks. It helps also the hypervisor
